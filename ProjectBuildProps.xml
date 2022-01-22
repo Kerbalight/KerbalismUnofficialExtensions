@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<!-- IMPORTANT: You need to reload VS Solution in order to see changes here applied -->
+	<PropertyGroup>
+		<KspDir>C:\KSP-Dev</KspDir> <!-- Use your KSP folder path -->
+		<KspManagedDllsDir>KSP_x64_Data\Managed</KspManagedDllsDir>
+		<ProjectAliasName>KerbalismUnofficialExtensions</ProjectAliasName>
+	</PropertyGroup>
+</Project>
